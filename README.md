@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋, I'm Akram Bouzoualegh</h2>
+<h1 align="center">Hi 👋, I'm Akram Bouzoualegh</h1>
 <h3 align="center">A young web developer from Algeria</h3>
-<h3 align="center">Welcome to my Github profile</h3>
-<h3 align="center">Connact me:</h3>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/akram-bzgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akram-bzgh" height="30" width="40" /></a>
 <a href="https://dev.to/akram bouzoualegh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akram bouzoualegh" height="30" width="40" /></a>
