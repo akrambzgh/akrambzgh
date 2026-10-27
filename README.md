@@ -7,12 +7,6 @@
 ### :man_technologist: About Me :
 I am a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Learning New Technologie Whenever I Complete The Last One.
-
-- :seedling: Exploring Technical Content (docs, videos, blogs..).
-
-- :zap: In my free time, I Watch People Build Thing To Get Inspired.
-
 - ---
 
 <div align="center">
